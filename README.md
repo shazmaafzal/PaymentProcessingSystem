@@ -1,6 +1,6 @@
 # 💳 Payment Processing System
 
-A full-stack payment processing platform built with ASP.NET Core 8, React 18, and Azure DevOps CI/CD, demonstrating secure transactions, refunds, reporting, and background processing using Clean Architecture.
+A Full-Stack Payment Processing Platform built with ASP.NET Core 8, React 18, and Azure DevOps CI/CD, demonstrating secure transactions, refunds, reporting, and background processing using Clean Architecture.
 
 ---
 
