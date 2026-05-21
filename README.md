@@ -1,6 +1,6 @@
-# 💳 Payment Application with Reporting Dashboard
+# 💳 Payment Processing System
 
-This is a full-stack demo payment system developed as part of a technical assessment. It provides secure payment processing, refund operations, and reporting visualizations via a dashboard.
+A full-stack payment processing platform built with ASP.NET Core 8, React 18, and Azure DevOps CI/CD, demonstrating secure transactions, refunds, reporting, and background processing using Clean Architecture.
 
 ---
 
@@ -34,7 +34,7 @@ This is a full-stack demo payment system developed as part of a technical assess
 
 - 🔒 **Security Considerations**  
   - Card data is validated strictly
-  - Refund codes are valid only for limited time
+  - Refund codes are valid only for a limited time
   - Data access is layered via repository pattern
 
 ---
@@ -217,7 +217,7 @@ Edit
 ---
 
 🙋‍♀️ Author & Credits
-Project developed by Shazma Afzal as part of a technical assessment for a .NET Developer role.
+Project developed by Shazma Afzal as part of a Technical Assessment for a Senior .NET Developer role.
 
 📬 Contact
 For any queries, please contact:
